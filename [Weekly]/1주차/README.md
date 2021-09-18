@@ -2,7 +2,6 @@
 
 ## 1주차 - 부족한 금액 계산하기
 
-
 ### 접근 방식
 
 - 등차수열 합의 규칙을 보이므로 for문으로 해결.
@@ -18,3 +17,6 @@ def solutoin(price, money, count):
 
     return need_money - money if need_money else 0
 ```
+----
+## 실행 결과
+![img.png](img.png)
